@@ -1,0 +1,7 @@
+C:\Proyectos Visual Studio\Proyectos Consola (.NET Framework)\ProgramaNumerosTutorialPagina\ProgramaNumeros\bin\Debug\ProgramaNumeros.exe.config
+C:\Proyectos Visual Studio\Proyectos Consola (.NET Framework)\ProgramaNumerosTutorialPagina\ProgramaNumeros\bin\Debug\ProgramaNumeros.exe
+C:\Proyectos Visual Studio\Proyectos Consola (.NET Framework)\ProgramaNumerosTutorialPagina\ProgramaNumeros\bin\Debug\ProgramaNumeros.pdb
+C:\Proyectos Visual Studio\Proyectos Consola (.NET Framework)\ProgramaNumerosTutorialPagina\ProgramaNumeros\obj\Debug\ProgramaNumeros.csprojAssemblyReference.cache
+C:\Proyectos Visual Studio\Proyectos Consola (.NET Framework)\ProgramaNumerosTutorialPagina\ProgramaNumeros\obj\Debug\ProgramaNumeros.csproj.CoreCompileInputs.cache
+C:\Proyectos Visual Studio\Proyectos Consola (.NET Framework)\ProgramaNumerosTutorialPagina\ProgramaNumeros\obj\Debug\ProgramaNumeros.exe
+C:\Proyectos Visual Studio\Proyectos Consola (.NET Framework)\ProgramaNumerosTutorialPagina\ProgramaNumeros\obj\Debug\ProgramaNumeros.pdb
